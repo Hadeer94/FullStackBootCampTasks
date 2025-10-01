@@ -57,6 +57,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vehiclesSystem" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Task4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vehiclesSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
